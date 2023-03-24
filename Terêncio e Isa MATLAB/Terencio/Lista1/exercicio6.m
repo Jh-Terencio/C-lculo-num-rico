@@ -10,15 +10,4 @@ else
 end
 
 
-%>> frase = 'A base do teto desaba'
-%frase = A base do teto desaba
-%>> fliplr(frase)
-%ans = abased otet od esab A
-%>> frase(frase != ' ')
-%ans = Abasedotetodesaba
-%>> lower(frase(frase != ' '))
-%ans = abasedotetodesaba
-%>> fraselimpa = lower(frase(frase != ' '))
-%fraselimpa = abasedotetodesaba
-%>> all(fraselimpa == fliplr(fraselimpa))
-%ans =  1
+
