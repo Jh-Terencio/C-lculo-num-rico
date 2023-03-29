@@ -1,0 +1,25 @@
+% exemplo 1:
+O metodo convergiu !! 
+o numero de iteracoes utilizadas: 12 
+o valor de x é: 
+    1.0000
+    2.0000
+    3.0000
+
+% exemplo 2
+O metodo convergiu !! 
+o numero de iteracoes utilizadas: 116 
+o valor de x é: 
+   11.2000
+    0.2000
+    1.8000
+
+% exemplo 3
+O metodo convergiu !! 
+o numero de iteracoes utilizadas: 19 
+o valor de x é: 
+    1.5000
+    1.5000
+
+% exemplo 4
+O metodo nao convergiu !! 
