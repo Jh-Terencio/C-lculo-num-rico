@@ -1,0 +1,40 @@
+Exercício 1:
+Coeficientes do polinomio interpolador
+coef. de x2: 1.00
+coef. de x1: -6.00
+coef. de x0: 11.00
+Valor interpolado:
+   2.250000000000000
+
+Polinomio Interpolador:
+p2(x)= +1.0000x^2 -6.0000x +11.0000
+
+Valor da função interpolada em x = 2.50: 2.25
+
+Exercício 2: 
+Coeficientes do polinomio interpolador
+coef. de x2: 0.67
+coef. de x1: -2.33
+coef. de x0: 1.00
+Valor interpolado:
+  -0.666666666666667
+
+Polinomio Interpolador:
+p2(x)= +0.6667x^2 -2.3333x +1.0000
+
+Valor da função interpolada em x = 1.00: -0.67
+
+Exercício 3:
+Coeficientes do polinomio interpolador
+coef. de x4: 2.00
+coef. de x3: -3.00
+coef. de x2: -0.00
+coef. de x1: 7.00
+coef. de x0: -9.00
+Valor interpolado:
+    93
+
+Polinomio Interpolador:
+p4(x)= +2.0000x^4 -3.0000x^3 -0.0000x^2 +7.0000x -9.0000
+
+Valor da função interpolada em x = 3.00: 93.00
