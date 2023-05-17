@@ -1,0 +1,26 @@
+*****  A SOLUCAO ENCONTRADA PELO METODO DA BISSECCAO FOI:  *****
+   2.506183624267578
+
+O valor de f(x) calculado na solucao foi: 
+    -4.344208142104122e-07
+
+O numero de iteracoes foi: 
+    19
+
+*****  A SOLUCAO ENCONTRADA PELO METODO DA BISSECCAO FOI:  *****
+   0.707153320312500
+
+O valor de f(x) calculado na solucao foi: 
+     6.581842899322510e-05
+
+O numero de iteracoes foi: 
+    14
+
+*****  A SOLUCAO ENCONTRADA PELO METODO DA BISSECCAO FOI:  *****
+   2.816909790039063
+
+O valor de f(x) calculado na solucao foi: 
+    -6.310903756556741e-05
+
+O numero de iteracoes foi: 
+    17
